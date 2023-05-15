@@ -1,2 +1,2 @@
 -  Hi, i'm Francesco, i'm from Italy and i've been interested in videogames and programming since i was a child.
--  I’m currently learning HTML, CSS and JAVASCRIPT.
+-  I’m currently learning HTML, CSS, JAVASCRIPT and JAVA.
